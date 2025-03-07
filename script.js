@@ -72,7 +72,7 @@ function displayData(userData) {
   const fieldsOrder = [
     "Kode ID",
     "Tgl Bergabung",
-    "Nama",
+    "Namai",
     "Pengundang",
     "WA Pengundang",
     "Anggota di Generasi 1",
