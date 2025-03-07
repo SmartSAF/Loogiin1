@@ -45,13 +45,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Tombol navigasi pada halaman WD
   document.getElementById("btnWithdrawKomisi").addEventListener("click", function() {
-    window.location.href = "https://SAF-Smart.com/Withdraw";
+    window.location.href = "https://SmartSAF.com/Withdraw";
   });
   document.getElementById("btnWithdrawUD").addEventListener("click", function() {
-    window.location.href = "https://SAF-Smart.com/Toko";
+    window.location.href = "https://SmartSAF.com/Toko";
   });
   document.getElementById("homeBtn").addEventListener("click", function() {
-    window.location.href = "https://SAF-Smart.com/Dashboard";
+    window.location.href = "https://SmartSAF.com/Dashboard";
   });
 });
 
@@ -114,7 +114,6 @@ function displayData(userData) {
     "Bonus Tambahan 1",
     "Bonus Tambahan 2",
     "Bonus Tambahan 3",
-    "Password"
   ];
 
   // Daftar field yang akan diformat sebagai mata uang (jika nilainya berupa angka)
