@@ -110,7 +110,7 @@ function displayData(userData) {
     "Saldo Komisi+Bonus",
     "Riwayat Withdraw UD",
     "Jumlah Withdraw UD",
-    "Saldo Uang Digital",
+    "Saldo Uang Digital (UD)",
     "Bonus Tambahan 1",
     "Bonus Tambahan 2",
     "Bonus Tambahan 3",
@@ -138,15 +138,10 @@ function displayData(userData) {
     "Jumlah Komisi+Bonus",
     "Komisi+Bonus Rp 80%",
     "Komisi+Bonus UD 20%",
-    "Riwayat Withdraw Rp",
     "Jumlah Withdraw Rp",
     "Saldo Komisi+Bonus",
-    "Riwayat Withdraw UD",
     "Jumlah Withdraw UD",
-    "Saldo Uang Digital",
-    "Bonus Tambahan 1",
-    "Bonus Tambahan 2",
-    "Bonus Tambahan 3"
+    "Saldo Uang Digital (UD)",
   ];
 
   fieldsOrder.forEach(function(field) {
